@@ -7,7 +7,7 @@
       <h3>Phone</h3>
     </div>
     <div class="social-media">
-      <i class="fa fa-envelope"></i>
+      <i style="color: blue;" class="fa fa-envelope"></i>
       <h3>Email</h3>
     </div>
     <div class="social-media">
@@ -16,7 +16,7 @@
     </div>
     <div class="social-media">
       <i style="color: blue;" class="fa fa-facebook"></i>
-      <h3>Phone</h3>
+      <h3>Facebook</h3>
     </div>
 
 
