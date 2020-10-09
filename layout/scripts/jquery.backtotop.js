@@ -29,6 +29,24 @@ File: Back to Top JS
 
 
 
+    $(window).on('load', function () {
+    if ($('#preloader').length) {
+      $('#preloader').delay(100).fadeOut('slow', function () {
+        $(this).remove();
+      });
+    }
+  });
+
+
+
+// function bodyFunction() {
+//   var loader = setTimeout(timeOut, 900);
+// }
+
+// function timeOut() {
+//   document.getElementById('preloader').style.display = 'none';
+// }
+
 
 
 jQuery("#backtotop").click(function () {
