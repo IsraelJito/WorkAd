@@ -1,6 +1,7 @@
 <?php require('header.php'); ?>
 
-
+    <div id="preloader"></div>
+    
   <div class="hoc social-media-wrap">
     <div class="social-media">
       <i style="color: blue;" class="fa fa-phone"></i>

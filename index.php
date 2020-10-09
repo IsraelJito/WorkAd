@@ -14,7 +14,8 @@ Licence URI: https://www.os-templates.com/template-terms
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
-<body id="top">
+<body id="top" >
+    <div id="preloader"></div>
 <!-- ################################################################################################ -->
 <!-- Top Background Image Wrapper -->
 <div class="bgded overlay light" style="background-image:url('images/RemoteWork.jpg');"> 
@@ -237,6 +238,7 @@ Licence URI: https://www.os-templates.com/template-terms
     <!-- ################################################################################################ -->
   </section>
 </div>
+
 
 
 <?php require('footer.php') ?>

@@ -1,5 +1,7 @@
 <?php require('header.php'); ?>
 
+
+    <div id="preloader"></div>
 <div class="wrapper row3">
   <main class="hoc container clear"> 
     <!-- main body -->
