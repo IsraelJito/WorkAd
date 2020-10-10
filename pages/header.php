@@ -14,6 +14,7 @@ Licence URI: https://www.os-templates.com/template-terms
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
+
 <body id="top">
   <!-- ################################################################################################ -->
   <!-- ################################################################################################ -->
@@ -55,10 +56,10 @@ Licence URI: https://www.os-templates.com/template-terms
         </div>
         <nav id="mainav" class="fl_right">
           <ul class="clear">
-            <li><a href="../index.php">Home</a></li>
+            <li class="active"><a href="../index.php">Home</a></li>
             <li><a href="gallery.php">Our Work</a></li>
             <li><a href="about.php">About</a></li>
-            <li class="active"><a href="contact.php">Contact Us</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
           </ul>
         </nav>
         <!-- ################################################################################################ -->
@@ -76,5 +77,8 @@ Licence URI: https://www.os-templates.com/template-terms
       </ul> 
     </div>
   </div>
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
   <!-- End Top Background Image Wrapper -->
   <!-- ################################################################################################ -->
